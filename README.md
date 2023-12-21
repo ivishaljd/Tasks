@@ -1,4 +1,4 @@
-# CodSoft
+# TASKS
 Title:  - Landing Page, Portfolio, and Calculator
 
 Description:
